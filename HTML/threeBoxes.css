@@ -1,0 +1,17 @@
+.box {
+    border: 50px solid #e74c3c;
+    width: 200px;
+    padding: 50px;
+    margin-bottom: 20px;
+}
+
+.green {
+    border-color: #27ae60;
+    /* display: none (해당 공간 차지 X) */
+    /* visibility: hidden (해당 공간 차지 O) */
+
+}
+
+.blue {
+    border-color: #2980b9;
+}
